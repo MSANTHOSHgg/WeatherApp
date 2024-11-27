@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-// Images
 import searchIcon from "./assets/search.png"
 import cloudIcon from "./assets/cloud.png"
 import humidityIcon from "./assets/humidity.png"
